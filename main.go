@@ -1,3 +1,4 @@
+//REST API in Golang using MySQL database.
 package main
 
 import (
