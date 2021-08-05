@@ -10,5 +10,6 @@ import (
 func Init() {
 	router := mux.NewRouter()
 	router.HandleFunc("/signin", controllers.UserLogin).Methods("GET")
+	router.HandleFunc("/getmydata", controllers.GetMyData).Methods("GET")
 	log.Fatal(http.ListenAndServe(":8000", router))
 }
