@@ -1,8 +1,6 @@
 # SSO-using-JWT-authentication
 This is a repository for the project 'Single Sign On using JWT authentication'.
 
-Github link to the Project: https://github.com/bobysingh494/SSO-using-JWT-authentication.
-
 The complete directory of the project is as follows:
 
 SingleSignOn
